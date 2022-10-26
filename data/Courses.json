@@ -1,0 +1,526 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "HTML5 Tutorials – Learn HTML5 For Free – Free Course Site",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://usefulangle.com/img/thumb/html.png",
+    "image_url": "https://tatoreh.com/wp-content/uploads/2021/03/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%DA%86-%D8%AA%DB%8C-%D8%A7%D9%85-%D8%A7%D9%84-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%B2%D9%85%DB%8C%D9%86%D9%876-1.jpg",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Javascript Tutorials – Learn Javascript For Free – Free Course Site",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+    "image_url": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+    "details": "Javascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web.Javascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Learn HTML5 For Free – Free Course Site",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://usefulangle.com/img/thumb/html.png",
+    "image_url": "https://i.ytimg.com/vi/l56QySgO9-w/maxresdefault.jpg",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "CSS3 Tutorials – Learn CSS3 For Free – Free Course Site",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+    "image_url": "https://i.ytimg.com/vi/uOltiFI00rU/maxresdefault.jpg",
+    "details": "CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "A complete JavaScript course for learning game development",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
+    "image_url": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+    "details": "Javascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Complete HTML and CSS with Projects From Zero To Expert – 2022",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://cdn.pixabay.com/photo/2018/05/08/21/37/html5-3384039__340.png",
+    "image_url": "https://msbabu.com/wp-content/uploads/2020/05/2897.png",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": null,
+    "title": "Tailwind CSS – Step by Step",
+    "author": {
+      "name": null,
+      "published_date": "2022-08-30 15:00:04",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://cdn-icons-png.flaticon.com/512/919/919826.png",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg",
+    "details": "CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature."
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 111,
+    "title": "The Complete Beginner Course in JavaScript (2022)",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": null,
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png",
+    "image_url": "https://cdn.geekboots.com/geek/javascript-meta-1652702081069.jpg",
+    "details": "Javascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web."
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "title": "Master React the fun way! Create a Movie App from scratch Course",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://freecoursesites.com/wp-content/uploads/2018/11/Master-React-the-fun-way-Create-a-Movie-App-from-scratch-Course-Free-Download.jpg",
+    "image_url": "https://code.visualstudio.com/assets/docs/nodejs/reactjs/app-is-unused.png",
+    "details": "In this course, you will learn how to master React. We’ll build a light version of an IMDB style React DB Web Application and dive straight into creating our app and gradually learn more until we reach the finish. My main goal with this course is to mix fun with teaching. There are many tutorials and courses out there that are great but too complex and focus on a lot at the same time. I’m a great movie lover myself so therefore I thought it would be fun to create a web application based on movie data for this course. I hope you enjoy it too!"
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "title": "React styled components v5 (2021 edition)",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSi6v-wfl_Af5ai06B1X0rgbUgRVtyqJwzOaEcGRDF1_ChSx4qKSx_DaR6zH-GJRIvKc&usqp=CAUhttps://resources.jetbrains.com/help/img/idea/2022.2/ws_react_jsx_tree_highlighting.png",
+    "details": "In this course, you will learn how to master React. We’ll build a light version of an IMDB style React DB Web Application and dive straight into creating our app and gradually learn more until we reach the finish. My main goal with this course is to mix fun with teaching. There are many tutorials and courses out there that are great but too complex and focus on a lot at the same time. I’m a great movie lover myself so therefore I thought it would be fun to create a web application based on movie data for this course. I hope you enjoy it too!In this course, you will learn how to master React. We’ll build a light version of an IMDB style React DB Web Application and dive straight into creating our app and gradually learn more until we reach the finish. My main goal with this course is to mix fun with teaching. There are many tutorials and courses out there that are great but too complex and focus on a lot at the same time. I’m a great movie lover myself so therefore I thought it would be fun to create a web application based on movie data for this course. I hope you enjoy it too!"
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "title": "A Complete SEO Course for Web Developers",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://freecoursesites.com/wp-content/uploads/2022/07/A-Complete-SEO-Course-for-Web-Developers.jpg",
+    "image_url": "https://www.reliablesoft.net/wp-content/uploads/2013/02/seo.jpg",
+    "details": "If you are an SEO expert who wants to learn more advanced techniques, this class is not for you.For anyone who wants to start working with SEO, I made this course. If you have never worked with SEO, or even if you’ve already tried but didn’t get good results, you can find everything you need here.Increasing your website’s visibility and getting more organic traffic are our main goals for you. This will help you get more clients and make more sales for your business."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "title": "Server Side Rendering with React and Redux Course Site",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://mailrelay.com/wp-content/uploads/2017/11/tendencias-seo.png",
+    "image_url": "https://mailrelay.com/wp-content/uploads/2017/11/tendencias-seo.png",
+    "details": "All of my courses are ‘learn-by-doing’: no boring endless lectures with Powerpoints, only live, interactive coding examples.  In this course, we’ll build one application that profiles the challenges of server side rendering with React, Redux, React Router, and Express.  By putting each concept into a real app, you’ll get a better idea of when to use each unique and powerful feature.Ever wonder why there are so few courses online that teach server side rendering techniques?  Sure, there are blog posts that show a tiny portion of a server side rendered app, but there are nearly no resources online to give you the full server side rendering experience from start to finish.  This course is the most complete resource online for learning about exactly why server side rendering is so challenging.  You’ll learn the biggest hurdles, along with multiple solutions to each major problem, giving you the toolset you need to tackle server side rendering techniques in your own applications."
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 700,
+    "title": "CSS, Bootstrap, JavaScript, Web Development Course",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-30 20:02:52",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://wpformation.com/wp-content/uploads/2020/09/CSS-WordPress.jpg",
+    "image_url": "https://www.marketinhouse.es/wp-content/uploads/2019/12/optimizacion-css.jpg",
+    "details": "CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature."
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "title": "Ensemble models in machine learning with Python",
+    "author": {
+      "name": "",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg",
+    "image_url": "https://www.thoughtco.com/thmb/UYRMysvVDWEnfsqYM1CStWL3r7c=/345x230/filters:no_upscale():max_bytes(150000):strip_icc()/pexels-photo-270348-598f140868e1a20011c6ec6b.jpg",
+    "details": "In this practical course, we are going to focus on ensemble models in supervised machine learning using Python programming language."
+  },
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 0,
+    "title": "HTML Web Development: The Complete Guide",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-25 03:09:16",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://cdn5.vectorstock.com/i/1000x1000/05/44/orange-3d-html5-icon-vector-36630544.jpg",
+    "image_url": "https://i.ytimg.com/vi/l56QySgO9-w/maxresdefault.jpg",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 320,
+    "title": "HTML Crash Course",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-25 07:35:11",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://e7.pngegg.com/pngimages/63/313/png-clipart-html-computer-icons-world-wide-web-text-logo-thumbnail.png",
+    "image_url": "https://msbabu.com/wp-content/uploads/2020/05/2897.png",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 552,
+    "title": "Master CSS Bootcamp 2022 with Animations, Transitions, Flex",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-27 05:38:02",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://images.velog.io/images/jakeseo_me/post/7492518b-f81c-4ebe-be44-a40f2af5064c/css%20shield.png",
+    "image_url": "https://techvccloud.mediacdn.vn/2020/4/13/photo-1-15867704341431006410340-crop-1586770597696426386843.jpg",
+    "details": "CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature."
+  },
+  {
+    "_id": "919db97c34e0778b387dd40cdfa08130",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 89,
+    "title": "Learn HTML5 & CSS3 from Scratch and Code with Visual Studio",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-30 18:05:42",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://e7.pngegg.com/pngimages/63/313/png-clipart-html-computer-icons-world-wide-web-text-logo-thumbnail.png",
+    "image_url": "https://msbabu.com/wp-content/uploads/2020/05/2897.png",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+  {
+    "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 798,
+    "title": "It’s Not Magic! It’s HTML5 Course",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-25 18:45:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://e7.pngegg.com/pngimages/63/313/png-clipart-html-computer-icons-world-wide-web-text-logo-thumbnail.png",
+    "image_url": "https://msbabu.com/wp-content/uploads/2020/05/2897.png",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 879,
+    "title": "The Complete Course to Learning JavaScript for Beginners",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-25 11:53:13",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png",
+    "image_url": "https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png",
+    "details": "Javascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the webJavascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web"
+  },
+  {
+    "_id": "be44c843d61859cc0b87cae85c55f9db",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 231,
+    "title": "Projects in HTML5 Course – Learn HTML5",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-26 12:15:36",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://e7.pngegg.com/pngimages/485/591/png-clipart-html-computer-icons-symbol-miscellaneous-angle-thumbnail.png",
+    "image_url": "https://msbabu.com/wp-content/uploads/2020/05/2897.png",
+    "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.Other technologies besides HTML are generally used to describe a web pages appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+  },
+  {
+    "_id": "1b03149c50f1bec662062d930bf46489",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 546,
+    "title": "Learn Complete CSS Tutorials with Projects for Beginners Course",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-30 22:00:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Css-versicherung-logo.svg/1200px-Css-versicherung-logo.svg.png",
+    "image_url": "https://images.velog.io/images/qldudgh/post/34cbbf15-2cc4-4598-bc9e-98f98f684f5a/css-logo.png",
+    "details": "CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Learn How shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature.CSS3 Tutorials – Learn CSS3 For Free – Free Course Site – The PhotoShop Layers panel contains a feature to extract CSS markup from an existing design comp automatically."
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 1870,
+    "title": "Learn how to write clean JavaScript code",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://freecoursesites.com/wp-content/uploads/2022/06/Learn-how-to-write-clean-JavaScript-code.jpg",
+    "image_url": "https://www.onamae.com/upload_images/column/article/wordpress/52/1654059911.jpg",
+    "published_date": "2022-08-24 18:00:00",
+    "details": "Javascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the webJavascript Tutorials – Learn Javascript For Free – Free Course Site – The JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. The syntax behind the JavaScript language. He shows how to “speak” JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web."
+  },
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "total_view": 354,
+    "title": "The Python Programming Bundle: Pandas, OOP, and an Introduction",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-30 17:44:16",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/12/Python-Programming.png",
+    "image_url": "https://freecoursesites.com/wp-content/uploads/2022/10/The-Python-Programming-Bundle-Pandas-OOP-and-an-Introduction.jpg",
+    "details": "Object-oriented programming is crucial in Python since every piece of code that uses Python interacts with objects and classes.The Introduction to Python course makes no assumptions about your prior programming experience. It guides you through setting up and starting, and it includes practice activities and a final assignment to complete.Pandas for Beginners assumes no prior knowledge of Pandas and will expose you to the fundamentals of data analysis. But because Pandas is a Python module, you need to know the basic syntax of Python, which you should learn in the first course.You must be an intermediate Python programmer to get the most out of the OOP course."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "SEO for Beginners: Rank #1 on Google with SEO",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://d57439wlqx3vo.cloudfront.net/iblock/bc0/bc0f0fade6094e32d26afe9ee426bf47/a1d39b9944184055866844a5d88fdec3.png",
+    "image_url": "https://d57439wlqx3vo.cloudfront.net/iblock/bc0/bc0f0fade6094e32d26afe9ee426bf47/a1d39b9944184055866844a5d88fdec3.png",
+    "details": "All of my courses are ‘learn-by-doing’: no boring endless lectures with Powerpoints, only live, interactive coding examples.  In this course, we’ll build one application that profiles the challenges of server side rendering with React, Redux, React Router, and Express.  By putting each concept into a real app, you’ll get a better idea of when to use each unique and powerful feature.Ever wonder why there are so few courses online that teach server side rendering techniques?  Sure, there are blog posts that show a tiny portion of a server side rendered app, but there are nearly no resources online to give you the full server side rendering experience from start to finish.  This course is the most complete resource online for learning about exactly why server side rendering is so challenging.  You’ll learn the biggest hurdles, along with multiple solutions to each major problem, giving you the toolset you need to tackle server side rendering techniques in your own applications."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "Server Side Rendering with React and Redux Course Site",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://freecoursesites.com/wp-content/uploads/2020/01/Server-Side-Rendering-with-React-and-Redux-Course-Site.jpg",
+    "image_url": "https://static.javatpoint.com/tutorial/reactjs/images/react-redux-architecture.png",
+    "details": "In this course, you will learn how to master React. We’ll build a light version of an IMDB style React DB Web Application and dive straight into creating our app and gradually learn more until we reach the finish. My main goal with this course is to mix fun with teaching. There are many tutorials and courses out there that are great but too complex and focus on a lot at the same time. I’m a great movie lover myself so therefore I thought it would be fun to create a web application based on movie data for this course."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "C# Tutorials – Learn C# For Free – Free Course Site",
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
+    },
+    "thumbnail_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/titleShadow-1024x341.png",
+    "image_url": "https://devskiller.com/wp-content/uploads/2019/03/How-to-Screen-C-and-C.png",
+    "details": "C# Tutorials – Learn C# For Free – Free Course Site – Writing programs in C# is one thing. Writing programs that work is another. Discover how debugging your applications can make them more accurate, efficient, and reliable. Learn exactly what it means to debug your programs, and how tools like Visual Studio Code—the most popular IDE for C# programmers—can help you identify and solve errors in your code. Learn the basic debugging process and introduces tips and tricks to reduce bugs and make your programs more secure. The most common errors in C#—issues like null reference exceptions and logical errors—and provides three coding challenges to help you practice your debugging skills."
+  }
+]
