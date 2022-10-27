@@ -8,7 +8,9 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
+
     "title": "HTML5 Tutorials – Learn HTML5 For Free – Free Course Site",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-24 17:27:34",
@@ -28,6 +30,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
     "title": "Javascript Tutorials – Learn Javascript For Free – Free Course Site",
+    "price": "20$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-24 17:27:34",
@@ -67,6 +70,7 @@
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_view": 400,
     "title": "CSS3 Tutorials – Learn CSS3 For Free – Free Course Site",
+    "price": "34$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-30 16:38:45",
@@ -87,6 +91,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
     "title": "A complete JavaScript course for learning game development",
+    "price": "44$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-24 23:15:00",
@@ -106,6 +111,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
     "title": "Complete HTML and CSS with Projects From Zero To Expert – 2022",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-24 23:15:00",
@@ -126,6 +132,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": null,
     "title": "Tailwind CSS – Step by Step",
+    "price": "27$",
     "author": {
       "name": null,
       "published_date": "2022-08-30 15:00:04",
@@ -146,6 +153,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 111,
     "title": "The Complete Beginner Course in JavaScript (2022)",
+    "price": "22$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": null,
@@ -166,6 +174,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 733,
     "title": "Master React the fun way! Create a Movie App from scratch Course",
+    "price": "24$",
     "author": {
       "name": "Theo Minh Châu",
       "published_date": "2022-08-25 06:03:00",
@@ -185,6 +194,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 733,
     "title": "React styled components v5 (2021 edition)",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-25 06:03:00",
@@ -205,6 +215,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 127,
     "title": "A Complete SEO Course for Web Developers",
+    "price": "26$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-25 18:53:49",
@@ -224,6 +235,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 127,
     "title": "Server Side Rendering with React and Redux Course Site",
+    "price": "22$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-25 18:53:49",
@@ -244,6 +256,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 700,
     "title": "CSS, Bootstrap, JavaScript, Web Development Course",
+    "price": "12$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-30 20:02:52",
@@ -263,6 +276,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 300,
     "title": "Ensemble models in machine learning with Python",
+    "price": "14$",
     "author": {
       "name": "",
       "published_date": "2022-08-24 22:30:00",
@@ -282,6 +296,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 0,
     "title": "HTML Web Development: The Complete Guide",
+    "price": "22$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-25 03:09:16",
@@ -301,6 +316,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 320,
     "title": "HTML Crash Course",
+    "price": "33$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-25 07:35:11",
@@ -320,6 +336,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 552,
     "title": "Master CSS Bootcamp 2022 with Animations, Transitions, Flex",
+    "price": "44$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-27 05:38:02",
@@ -339,6 +356,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 89,
     "title": "Learn HTML5 & CSS3 from Scratch and Code with Visual Studio",
+    "price": "12$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-30 18:05:42",
@@ -358,6 +376,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 798,
     "title": "It’s Not Magic! It’s HTML5 Course",
+    "price": "22$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-25 18:45:00",
@@ -377,6 +396,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 879,
     "title": "The Complete Course to Learning JavaScript for Beginners",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-25 11:53:13",
@@ -396,6 +416,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 231,
     "title": "Projects in HTML5 Course – Learn HTML5",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-26 12:15:36",
@@ -415,6 +436,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 546,
     "title": "Learn Complete CSS Tutorials with Projects for Beginners Course",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-30 22:00:00",
@@ -434,6 +456,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 1870,
     "title": "Learn how to write clean JavaScript code",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-24 23:15:00",
@@ -454,6 +477,7 @@
     "rating": { "number": 4.2, "badge": "Excellent" },
     "total_view": 354,
     "title": "The Python Programming Bundle: Pandas, OOP, and an Introduction",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-30 17:44:16",
@@ -474,6 +498,7 @@
 
     "total_view": 100,
     "title": "SEO for Beginners: Rank #1 on Google with SEO",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-26 00:37:24",
@@ -494,6 +519,7 @@
 
     "total_view": 100,
     "title": "Server Side Rendering with React and Redux Course Site",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-26 00:37:24",
@@ -514,6 +540,7 @@
 
     "total_view": 100,
     "title": "C# Tutorials – Learn C# For Free – Free Course Site",
+    "price": "24$",
     "author": {
       "name": "Jhankar Mahbub",
       "published_date": "2022-08-26 00:37:24",
