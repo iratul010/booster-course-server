@@ -7,6 +7,7 @@ app.get("/", (req, res) => {
   res.send("Booster Courses API is Running!");
 });
 const categories = require("./data/categories.json");
+console.log(categories);
 const courses = require("./data/courses.json");
 app.get("/course-categories", (req, res) => {
   res.send(categories);
